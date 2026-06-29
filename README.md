@@ -1,3 +1,3 @@
-# Final Project - Emotion Detector
+# Final Project
 
-This repository contains the code for the Emotion Detector web application, developed as the final project for the IBM AI-based web application course.
+This repository contains the code for the Emotion Detector web application.
