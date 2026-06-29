@@ -1,0 +1,5 @@
+Command:
+python test_script.py
+
+Output:
+{'anger': 0.0136, 'disgust': 0.0019, 'fear': 0.0082, 'joy': 0.9721, 'sadness': 0.0248, 'dominant_emotion': 'joy'}
